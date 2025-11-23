@@ -56,6 +56,16 @@ git clone https://github.com/Akshobhya-codes/fluxweave-studio.git
 cd fluxweave-studio/fluxweave
 npm install
 
+##🧠 How It Works
+
+### Claude (Anthropic) — interprets product details, writes headlines and captions, analyzes brand logos.
+
+FLUX (fal.ai) — generates and edits visuals with style and platform context.
+
+DigitalOcean — provides GPU-powered compute and hosting infrastructure.
+
+Next.js — integrates both text + image AI seamlessly into one modern UI
+
 
 🌐 Live Demo
 
@@ -65,12 +75,3 @@ https://octopus-app-wk7g4.ondigitalocean.app/)](https://octopus-app-wk7g4.ondigi
 🎥 Demo Video:
 https://www.loom.com/share/9a649d440a8945508cb6c7d5f094f7dd
 
-🧠 How It Works
-
-Claude (Anthropic) — interprets product details, writes headlines and captions, analyzes brand logos.
-
-FLUX (fal.ai) — generates and edits visuals with style and platform context.
-
-DigitalOcean — provides GPU-powered compute and hosting infrastructure.
-
-Next.js — integrates both text + image AI seamlessly into one modern UI
